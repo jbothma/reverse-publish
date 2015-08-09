@@ -9,6 +9,6 @@ The structure of the document is also lost. E.g. the transcript at http://docsli
 
 ## Ideas
 
-## Longest repeating substring
+### Longest repeating substring
 
 Should help identify header/footers which can then be pulled out from the normal text flow
